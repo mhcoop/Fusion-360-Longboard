@@ -1,0 +1,9 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"Creates basic form for "
+	},
+	"supportedOS":	"windows|mac"
+}
